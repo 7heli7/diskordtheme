@@ -44,8 +44,8 @@
   --tint-colour: 206,180,238;
   --tint-brightness: 0.04;
   --font: Alegreya Sans SC;
-  --window-padding: 4px;
-  --window-roundness: 4px;
+  --window-padding: 0;
+  --window-roundness: 0;
   --update-notice-1: none;
 }
 
